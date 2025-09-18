@@ -1,0 +1,19 @@
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista_MarkupCompile.cache
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.g.resources
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.AssemblyInfoInputs.cache
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.AssemblyInfo.cs
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.csproj.CoreCompileInputs.cache
+C:\Users\48722\Desktop\projekt 2 lista\bin\Debug\net8.0-windows\projekt 2 lista.exe
+C:\Users\48722\Desktop\projekt 2 lista\bin\Debug\net8.0-windows\projekt 2 lista.deps.json
+C:\Users\48722\Desktop\projekt 2 lista\bin\Debug\net8.0-windows\projekt 2 lista.runtimeconfig.json
+C:\Users\48722\Desktop\projekt 2 lista\bin\Debug\net8.0-windows\projekt 2 lista.dll
+C:\Users\48722\Desktop\projekt 2 lista\bin\Debug\net8.0-windows\projekt 2 lista.pdb
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.dll
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\refint\projekt 2 lista.dll
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.pdb
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\projekt 2 lista.genruntimeconfig.cache
+C:\Users\48722\Desktop\projekt 2 lista\obj\Debug\net8.0-windows\ref\projekt 2 lista.dll

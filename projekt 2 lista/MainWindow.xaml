@@ -1,0 +1,13 @@
+﻿<Window x:Class="cwiczenie_2_formularze.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ComboBox x:Name="listaOpcji" Margin="0,0,378,285">
+            <ComboBoxItem>Sport</ComboBoxItem>
+            <ComboBoxItem>Muzyka</ComboBoxItem>
+            <ComboBoxItem>Podróże</ComboBoxItem>
+        </ComboBox>
+        <Button Content="Wybierz" Margin="162,136,163,135"  Width="200" Click="Wybierz_Click"/>
+    </Grid>
+</Window>
